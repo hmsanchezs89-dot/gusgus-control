@@ -18,3 +18,4 @@ npm run dev
 ## Estado
 - Funciona como prototipo visual.
 - Si configuras Supabase, el botón COBRAR intenta guardar ventas reales.
+- 
